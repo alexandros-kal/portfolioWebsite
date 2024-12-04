@@ -10,7 +10,7 @@ const Navbar = () => {
             <Link to="/contact">Contact Me</Link>
             <Link to="/projects">My projects</Link>
             <Link to='/Education'>My Education</Link>
-            <a href='https://github.com/alexandros-kal' target='_blank'><FaGithub size={50} /></a>
+            <a href='https://github.com/alexandros-kal' target='_blank' rel="noreferrer"><FaGithub size={50} /></a>
         </nav>
     )
 }
