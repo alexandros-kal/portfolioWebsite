@@ -1,0 +1,25 @@
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: blue;
+    padding: 1rem;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: lime;
+    font-size: 2rem;
+    transition: color 0.5s ease;
+}
+
+.navbar a:hover{
+    color: white;
+}
+
+.navbar Link{
+    text-decoration: none;
+    color: lime;
+    font-size: 2rem;
+    transition: color 0.5s ease;
+}
