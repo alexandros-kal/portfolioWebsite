@@ -4,3 +4,22 @@
     align-items: center;
     text-align: center;
   }
+
+  .home-content{
+    border: 10px double darkblue;
+    border-radius: 10%;
+    padding-bottom: 80px;
+  }
+  
+  .header {
+    color: darkblue;
+    font-family: comic sans ms;
+    margin-bottom: 50px;
+  }
+
+  .home-content p {
+    font-family: comic sans ms;
+    font-size: 25px;
+    width: 70%;
+    margin: 20px auto;
+  }
