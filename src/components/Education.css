@@ -1,0 +1,13 @@
+.education {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+.education-content{
+    line-height: 1.8;
+    text-align: left;
+    max-width: 70%;
+    font-family: comic sans ms;
+    font-size: 20px;
+}

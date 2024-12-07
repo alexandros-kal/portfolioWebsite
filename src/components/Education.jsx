@@ -5,7 +5,21 @@ const Education = () => {
     return(
         <div className="education">
             <div className="education-content">
-               I have a Diploma in IT applications, but most of my skills are self taught through online tutorials and courses.
+            <p>
+            I completed my studies at the Vocational High School of Korydallos, specializing in Information Technology Applications.
+            During this time, I learned HTML, CSS, object-oriented programming with Python, and the basics of databases.
+            </p>
+            <p>
+            After finishing school and earning my certification, I continued my education
+            with a post-secondary apprenticeship year to advance my qualifications with a higher-level diploma. 
+            In this program, I further developed my skills by learning JavaScript, WordPress,
+            PHP, and MySQL.
+            </p> 
+            
+            <p>I also worked on improving my knowledge through self-study, online tutorials,
+            and hands-on practice. This helped me strengthen my frontend development skills, particularly in React.js,
+            which I now use in my projects.
+            </p>
                
             </div>
         </div>
