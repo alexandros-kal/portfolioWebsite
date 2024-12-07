@@ -1,0 +1,12 @@
+.projects {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    text-align: center;
+    font-family: comic sans ms;
+}
+
+.projects-content{
+    font-size: 30px;
+    margin: 50px;
+}
