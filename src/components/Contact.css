@@ -1,0 +1,22 @@
+.contact {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    text-align: center;
+    font-family: comic sans ms;
+}
+
+.contact-content h1{
+    font-size: 60px;
+    color: darkblue;
+}
+
+.email{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.email:hover{
+    color: blue;
+    cursor: pointer;
+}
