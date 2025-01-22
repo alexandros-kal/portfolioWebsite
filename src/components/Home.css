@@ -6,13 +6,12 @@
   }
 
   .home-content{
-    border: 10px double darkblue;
     border-radius: 10%;
     padding-bottom: 80px;
   }
   
   .header {
-    color: darkblue;
+    color: black;
     font-family: comic sans ms;
     margin-bottom: 50px;
   }
